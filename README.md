@@ -1,5 +1,5 @@
-# Themes
+# nw-themes
 
-A theme repo for Omega
+Custom themes for my calculator
 
 Now with other accent colors!
